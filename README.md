@@ -1,10 +1,11 @@
-# Color Space
+# color-space
 
-A zero-dependency Python CLI tool.
+Color space conversions (RGB, HSL, HSV, CMYK, hex).
 
 ## Usage
 
 ```bash
-python color_space.py test
-python color_space.py demo
+python3 color_space.py test
 ```
+
+Zero dependencies. Python 3.8+.
